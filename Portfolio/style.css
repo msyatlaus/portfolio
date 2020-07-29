@@ -3,4 +3,17 @@
 #jumbo-title {color: royalblue;
 }
 
-.navbar {background-color:red}
+
+.navbar {background-color:royalblue  }
+
+.card {margin: 2rem;}
+
+.display-2 {text-align: center;}
+
+.lead {font-size: 3rem; text-align: center;}
+
+.jumbotron {background-color: rgb(183, 216, 240)}
+
+.btn {background-color: rgb(95, 170, 95);}
+
+.col-md-4 {margin: .05rem;}
