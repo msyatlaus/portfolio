@@ -1,6 +1,6 @@
 .card-title {color: blue; font-size: larger;
 }
-#jumbo-title {color: royalblue;
+#jumbo-title {color: royalblue;1
 }
 
 
@@ -12,8 +12,13 @@
 
 .lead {font-size: 3rem; text-align: center;}
 
-.jumbotron {background-color: rgb(183, 216, 240)}
+.jumbotron {background-color: rgb(221, 236, 247)}
 
 .btn {background-color: rgb(95, 170, 95);}
 
 .col-md-4 {margin: .05rem;}
+
+.card-body {background-color: rgb(221, 236, 247);}
+
+
+    #text-color-overlay {color: white} 
