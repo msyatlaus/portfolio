@@ -1,4 +1,6 @@
-body {background-color: #BCE784;}
+body {
+  background: linear-gradient(123deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 9%, rgba(95,16,210,1) 15%, rgba(34,218,171,1) 43%, rgba(0,212,255,1) 100%);
+}
 
 .card-title {
   color: blue;
@@ -7,7 +9,8 @@ body {background-color: #BCE784;}
 
 #jumbo-title {
   color: #5dd39e;
- font-family: 'Luckiest Guy', cursive;
+  font-family: 'Rubik Mono One', sans-serif;
+
 }
 
 .navColor {
@@ -18,7 +21,7 @@ body {background-color: #BCE784;}
   background-color: #5dd39e;
 }
 .navbar {
-  font-family: "Amatic SC", cursive;
+  font-family: 'Rubik Mono One', sans-serif;
   font-size: x-large;
 }
 
@@ -36,7 +39,9 @@ body {background-color: #BCE784;}
 }
 
 .jumbotron {
-  background-color: #525174;
+  background-color: #262529;
+  opacity: .7;
+  
 }
 
 .btn {
@@ -56,5 +61,5 @@ body {background-color: #BCE784;}
 }
 .btn {
     background-color: #348AA7; 
-    font-family: "Amatic SC", cursive;
+    font-family: 'Rubik Mono One', sans-serif;
 }
