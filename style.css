@@ -1,24 +1,60 @@
-.card-title {color: blue; font-size: larger;
+body {background-color: #BCE784;}
+
+.card-title {
+  color: blue;
+  font-size: larger;
 }
-#jumbo-title {color: royalblue;1
+
+#jumbo-title {
+  color: #5dd39e;
+  font-family: "Amatic SC", cursive;
 }
 
+.navColor {
+  color: #525714;
+}
 
-.navbar {background-color:royalblue  }
+.navbar {
+  background-color: #5dd39e;
+}
+.navbar {
+  font-family: "Amatic SC", cursive;
+  font-size: x-large;
+}
 
-.card {margin: 2rem;}
+.card {
+  margin: 2rem;
+}
 
-.display-2 {text-align: center;}
+.display-2 {
+  text-align: center;
+}
 
-.lead {font-size: 3rem; text-align: center;}
+.lead {
+  font-size: 3rem;
+  text-align: center;
+}
 
-.jumbotron {background-color: rgb(221, 236, 247)}
+.jumbotron {
+  background-color: #525174;
+}
 
-.btn {background-color: rgb(95, 170, 95);}
+.btn {
+  background-color: rgb(95, 170, 95);
+}
 
-.col-md-4 {margin: .05rem;}
+.col-md-4 {
+  margin: 0.05rem;
+}
 
-.card-body {background-color: rgb(221, 236, 247);}
+.card-body {
+  background-color: rgb(221, 236, 247);
+}
 
-
-    #text-color-overlay {color: white} 
+#text-color-overlay {
+  color: white;
+}
+.btn {
+    background-color: #348AA7; 
+    font-family: "Amatic SC", cursive;
+}
