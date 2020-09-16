@@ -60,7 +60,7 @@ body {
 }
 .card-text {
   color: white;
-  text-align:  center;
+  text-align: center;
 }
 .card-link {
   text-align: center;
@@ -70,7 +70,15 @@ body {
   color: white;
 } */
 .btn {
-  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 30%, rgba(38,6,83,1) 37%, rgba(16,17,16,1) 43%, rgba(15,33,37,1) 89%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(
+    0deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(0, 0, 0, 1) 30%,
+    rgba(38, 6, 83, 1) 37%,
+    rgba(16, 17, 16, 1) 43%,
+    rgba(15, 33, 37, 1) 89%,
+    rgba(0, 212, 255, 1) 100%
+  );
   font-family: "Rubik Mono One", sans-serif;
 }
 .display-2 {
